@@ -99,3 +99,10 @@ font-family: 'Roboto', sans-serif;
     font-size: 30px;
     margin-bottom: 45px;
 }
+.more{
+    text-decoration: none;
+    background-color: brown;
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+}

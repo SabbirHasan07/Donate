@@ -1,0 +1,101 @@
+body{
+    font-family: 'Finlandica', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+.banner{
+    background-image: url(donation9.jpg);
+    text-align: center;
+    padding-bottom: 60px;
+    background-repeat: no-repeat; 
+    margin-bottom: 80px;
+}
+.head{
+    padding-top: 120px;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+#donate{
+    text-decoration: none;
+    background-color: brown;
+    border-radius: 5px;
+    padding: 10px;
+    color: azure;
+    font-size: 20px;
+}
+.head2{
+    text-align: center;
+    font-size: 30px;
+}
+.flex{
+    display: flex;
+    font-size: 30px;
+    margin-left: 400px;
+    margin-bottom: 10px;
+}
+.marzin{
+    margin: 20px;
+}
+#mar{
+    margin: 20px;
+    background-color: rgb(250, 158, 135);
+    padding-left: 10px;
+    padding-right: 10px;
+    color: brown;
+}
+.second-d{
+    text-align: center;   
+}
+#donate-s{
+    background-color: brown;
+    padding: 10px;
+    border-radius: 5px;text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 45px;
+}
+.sec2{
+    margin-bottom: 350px;
+}
+.scond-flex{
+    display: flex;
+    margin: 20px;
+}
+#flex-one{
+    background-color: rgb(206, 250, 235);
+    margin: 20px;
+    padding: 20px;
+}
+#flex-two{
+    background-color: rgb(250, 222, 206);
+    margin: 20px;
+    padding: 20px;
+}
+#flex-thirt{
+    background-color: rgb(255, 201, 181);
+    margin: 20px;
+    padding: 20px;
+}
+.sec1{
+    margin: 20px;
+    background-image: url(Frame-58.jpg);
+    padding-left: 60px;
+}
+.sec2{
+    margin: 20px;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    color: azure;
+    padding: 40px;
+}
+#humble{
+    color: rgb(165, 50, 42);
+}
+
+.head3{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 45px;
+}
